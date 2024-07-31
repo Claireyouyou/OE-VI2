@@ -27,38 +27,11 @@ Here we release four groups of examples, and each one includes 6 utterances:
 
 The comparison of Mel spectrogram are displayed below.
 
-## 2.1 Examples1 [Audio files are available in [audioDemo](./Example1) ]
-
-<div align="left"> 	<img src="./Example1/Original_In_Ear_Mel_Spectrogram.png" width="60%"> </div>
-<div align="left"> 	<img src="./Example1/Ground_Truth_Airborne_Spectrogram.png" width="60%"> </div>
-<div align="left"> 	<img src="./Example1/Reconstructed_Spectrogram_OE-VI2.png" width="60%"> </div>
-<div align="left"> 	<img src="./Example1/Reconstructed_Spectrogram_GMM.png" width="60%"> </div>
-<div align="left"> 	<img src="./Example1/Reconstructed_Spectrogram_CycleGAN-VC2.png" width="60%"> </div>
-<div align="left"> 	<img src="./Example1/Reconstructed_Spectrogram_AutoVC.png" width="60%"> </div>
-
-## 2.2 Examples2 [Audio files are available in [audioDemo](./Example2) ]
-
-<div align="left"> 	<img src="./Example2/Original_In_Ear_Mel_Spectrogram.png" width="60%"> </div>
-<div align="left"> 	<img src="./Example2/Ground_Truth_Airborne_Spectrogram.png" width="60%"> </div>
-<div align="left"> 	<img src="./Example2/Reconstructed_Spectrogram_OE-VI2.png" width="60%"> </div>
-<div align="left"> 	<img src="./Example2/Reconstructed_Spectrogram_GMM.png" width="60%"> </div>
-<div align="left"> 	<img src="./Example2/Reconstructed_Spectrogram_CycleGAN-VC2.png" width="60%"> </div>
-<div align="left"> 	<img src="./Example2/Reconstructed_Spectrogram_AutoVC.png" width="60%"> </div>
-
-## 2.3 Examples3 [Audio files are available in [audioDemo](./Example3) ]
-
-<div align="left"> 	<img src="./Example3/Original_In_Ear_Mel_Spectrogram.png" width="60%"> </div>
-<div align="left"> 	<img src="./Example3/Ground_Truth_Airborne_Spectrogram.png" width="60%"> </div>
-<div align="left"> 	<img src="./Example3/Reconstructed_Spectrogram_OE-VI2.png" width="60%"> </div>
-<div align="left"> 	<img src="./Example3/Reconstructed_Spectrogram_GMM.png" width="60%"> </div>
-<div align="left"> 	<img src="./Example3/Reconstructed_Spectrogram_CycleGAN-VC2.png" width="60%"> </div>
-<div align="left"> 	<img src="./Example3/Reconstructed_Spectrogram_AutoVC.png" width="60%"> </div>
-
-## 2.4 Examples4 [Audio files are available in [audioDemo](./Example4) ]
-
-<div align="left"> 	<img src="./Example4/Original_In_Ear_Mel_Spectrogram.png" width="60%"> </div>
-<div align="left"> 	<img src="./Example4/Ground_Truth_Airborne_Spectrogram.png" width="60%"> </div>
-<div align="left"> 	<img src="./Example4/Reconstructed_Spectrogram_OE-VI2.png" width="60%"> </div>
-<div align="left"> 	<img src="./Example4/Reconstructed_Spectrogram_GMM.png" width="60%"> </div>
-<div align="left"> 	<img src="./Example4/Reconstructed_Spectrogram_CycleGAN-VC2.png" width="60%"> </div>
-<div align="left"> 	<img src="./Example4/Reconstructed_Spectrogram_AutoVC.png" width="60%"> </div>
+|Method|Example1|Example2|Example3|Example4|
+|------|--------|--------|--------|--------|
+| In-ear | ![alt text](./Example1/Original_In_Ear_Mel_Spectrogram.png) | ![alt text](./Example2/Original_In_Ear_Mel_Spectrogram.png) | ![alt text](./Example3/Original_In_Ear_Mel_Spectrogram.png) | ![alt text](./Example4/Original_In_Ear_Mel_Spectrogram.png) |
+| Airborne (Ground Truth) | ![alt text](./Example1/Ground_Truth_Airborne_Spectrogram.png) | ![alt text](./Example2/Ground_Truth_Airborne_Spectrogram.png) | ![alt text](./Example3/Ground_Truth_Airborne_Spectrogram.png) | ![alt text](./Example4/Ground_Truth_Airborne_Spectrogram.png) |
+| OE-VI2 (Ours) | ![alt text](./Example1/Reconstructed_Spectrogram_OE-VI2.png) | ![alt text](./Example2/Reconstructed_Spectrogram_OE-VI2.png) | ![alt text](./Example3/Reconstructed_Spectrogram_OE-VI2.png) | ![alt text](./Example4/Reconstructed_Spectrogram_OE-VI2.png) |
+| GMM | ![alt text](./Example1/Reconstructed_Spectrogram_GMM.png) | ![alt text](./Example2/Reconstructed_Spectrogram_GMM.png) | ![alt text](./Example3/Reconstructed_Spectrogram_GMM.png) | ![alt text](./Example4/Reconstructed_Spectrogram_GMM.png) |
+| CycleGAN-VC2 | ![alt text](./Example1/Reconstructed_Spectrogram_CycleGAN-VC2.png) | ![alt text](./Example2/Reconstructed_Spectrogram_CycleGAN-VC2.png) | ![alt text](./Example3/Reconstructed_Spectrogram_CycleGAN-VC2.png) | ![alt text](./Example4/Reconstructed_Spectrogram_CycleGAN-VC2.png) |
+| AutoVC | ![alt text](./Example1/Reconstructed_Spectrogram_AutoVC.png) | ![alt text](./Example2/Reconstructed_Spectrogram_AutoVC.png) | ![alt text](./Example3/Reconstructed_Spectrogram_AutoVC.png) | ![alt text](./Example4/Reconstructed_Spectrogram_AutoVC.png) |
