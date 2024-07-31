@@ -2,7 +2,8 @@
 
 
 OE-VI2 is an occlusion effect-based in-ear voice input interface for earphones. We utilize the electro-acoustic (EA) model to conduct an occlusion effect-based correlation analysis between different channels. Based on such cross-channel correlation, we design an encoder-decoder learning network to reconstruct wide-bandwidth speech from narrow-bandwidth in-ear speech. To maintain the individual timbre information, we design a one-shot timbre auxiliary subnetwork to extract timbre embeddings. Through extensive real-world experiments with 28 participants, OE-VI2 can achieve an average MCD of 8.735, an average MSD of 0.893, and an average LSD of 11.956, outperforming existing solutions.
-(./)
+
+![alt text](./sys.png)
 
 
 # 1. Description
