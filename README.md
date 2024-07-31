@@ -21,7 +21,7 @@ Here we release four groups of examples, and each one includes 6 utterances:
 
 ***(6) reconstructed speech by baseline3: AutoVC***
 
-[The model OE-VC is also available in [Model_OE-VC.py](./Model_OE-VC.py) ]
+[The model OE-VC is also available in [Model_OE-VC.py](./model_OE-VC.py) ]
 
 # 2. Demo
 
