@@ -10,17 +10,17 @@ OE-VI2 is an occlusion effect-based in-ear voice input interface for earphones. 
 
 Here we release four groups of examples, and each one includes 6 utterances:
 
-***(1) ground truth airborne speech***
+***(1) Original in-ear speech***
 
-***(2) original in-ear speech***
+***(2) Ground truth airborne speech***
 
-***(3) reconstructed speech by our system: OE-VI2***
+***(3) Reconstructed speech by our system: OE-VI2***
 
-***(4) reconstructed speech by baseline1: GMM***
+***(4) Reconstructed speech by baseline1: GMM***
 
-***(5) reconstructed speech by baseline2: CycelGAN-VC2***
+***(5) Reconstructed speech by baseline2: CycelGAN-VC2***
 
-***(6) reconstructed speech by baseline3: AutoVC***
+***(6) Reconstructed speech by baseline3: AutoVC***
 
 [The model OE-VC is also available in [Model_OE-VC.py](./model_OE-VC.py) ]
 
